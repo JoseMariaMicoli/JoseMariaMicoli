@@ -7,28 +7,32 @@ I specialize in simulating advanced threat actor behaviors by building custom of
 ---
 
 ### 🛠️ Featured Tradecraft
-* **[Hydra-C2](https://github.com/JoseMariaMicoli/Hydra-C2)**: A modular Command & Control framework designed for stealthy communication and EDR evasion. (Rust/Python)
-* **[APEX-PRO](https://github.com/JoseMariaMicoli/APEX-PRO)**: A controlled ransomware simulator for auditing backup integrity and detection thresholds. (C++/Python)
+* **[Hydra-C2](https://github.com/JoseMariaMicoli/Hydra-C2)**: A modular Command & Control framework designed for stealthy communication and EDR evasion. (Rust/Python/Kotlin)
+* **[APEX-PRO](https://github.com/JoseMariaMicoli/APEX-PRO)**: A controlled ransomware simulator for auditing backup integrity and detection thresholds. (C#/Python/Powershell)
 * **[EtherdogsC](https://savannah.nongnu.org/git/?group=etherdogsc)**: Low-level 802.3 network sniffer for deep-packet analysis. (C)
 
 ---
 
-### 📊 Tactical Mapping (MITRE ATT&CK®)
-My development work focuses on the following adversarial tactics:
+### 📊 Adversarial Tactic & Technique Mapping (MITRE ATT&CK®)
 
-| Tactic | Techniques | Tools |
+My tradecraft is engineered to simulate specific TTPs (Tactics, Techniques, and Procedures) as defined by the MITRE ATT&CK® framework.
+
+| Tactic | Technique (ID) | Tooling / Implementation |
 | :--- | :--- | :--- |
-| **Command & Control** | T1071 (Application Layer Protocol), T1573 (Encrypted Channel) | Hydra-C2 |
-| **Defense Evasion** | T1027 (Obfuscation), T1562 (Impair Defenses) | Hydra-C2 / APEX-PRO |
-| **Impact** | T1486 (Data Encrypted for Impact) | APEX-PRO |
-| **Discovery** | T1046 (Network Service Scanning) | EtherdogsC |
+| **Execution** | PowerShell (T1059.001) | **APEX-PRO** (Initial delivery & runner) |
+| **Persistence** | Registry Run Keys / Startup Folder (T1547.001) | **APEX-PRO** (Persistence module) |
+| **Discovery** | Network Service Scanning (T1046) / Network Share Discovery (T1135) | **EtherdogsC** / **APEX-PRO** |
+| **Defense Evasion** | Obfuscated Files or Information (T1027) | **Hydra-C2** & **APEX-PRO** |
+| **Command & Control** | Application Layer Protocol (T1071) / Encrypted Channel (T1573) | **Hydra-C2** (Stealth listeners) |
+| **Exfiltration** | Exfiltration Over C2 Channel (T1041) / Over Bluetooth (T1011) | **APEX-PRO** (Data stage & exfil) |
+| **Impact** | Data Encrypted for Impact (T1486) / Internal Defacement (T1491.001) | **APEX-PRO** (Ransomware simulation) |
 
 ---
 
 ### 🧰 Tech Stack
 * **Languages:** Rust, C/C++, Python, Ruby, Powershell, Java/Kotlin.
-* **Ops:** Red Teaming, Active Directory Exploitation, Mobile & API Pentesting.
-* **Infrastructure:** NGFW (Sophos/Fortinet), Linux Hardening, Cisco Networking.
+* **Ops:** Red Teaming, Active Directory Exploitation, Web, Mobile & API Pentesting.
+* **Infrastructure:** NGFW (Sophos/Fortinet/Cisco), Linux Hardening, Cisco Networking.
 
 ---
 
