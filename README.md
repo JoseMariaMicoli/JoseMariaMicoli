@@ -9,6 +9,7 @@ I specialize in simulating advanced threat actor behaviors by building custom of
 ### 🛠️ Featured Tradecraft
 * **[Hydra-C2](https://github.com/JoseMariaMicoli/Hydra-C2)**: A modular Command & Control framework designed for stealthy communication and EDR evasion. (Rust/Python/Kotlin)
 * **[APEX-PRO](https://github.com/JoseMariaMicoli/APEX-PRO)**: A controlled ransomware simulator for auditing backup integrity and detection thresholds. (C#/Python/Powershell)
+* **[VectorVue](https://github.com/JoseMariaMicoli/VectorVue)**: Red Team & Penetration Testing Reporting Framework (MarkDown)
 * **[EtherdogsC](https://savannah.nongnu.org/git/?group=etherdogsc)**: Low-level 802.3 network sniffer for deep-packet analysis. (C)
 
 ---
