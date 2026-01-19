@@ -12,6 +12,8 @@ I specialize in simulating advanced threat actor behaviors by building custom of
 * **[APEX-PRO](https://github.com/JoseMariaMicoli/APEX-PRO)**: A controlled ransomware simulator for auditing backup integrity and detection thresholds. (C#/Python/Powershell)
 * **[VectorVue](https://github.com/JoseMariaMicoli/VectorVue)**: Red Team & Penetration Testing Reporting Framework (Python)
 * **[Log4Shell-PoC](https://github.com/JoseMariaMicoli/Log4Shell-PoC)**: Log4Shell PoC is a high-fidelity exploitation environment designed to replicate the CVE-2021-44228 vulnerability. (Java/Python)
+* **[VaporTrace](https://github.com/JoseMariaMicoli/VaporTrace)**: Surgical API Exploitation Suite. (Go)
+* **[Ghost-Pipeline](https://github.com/JoseMariaMicoli/Ghost-Pipeline)**: CI/CD post-exploitation framework. (Python/Shell/Go)
 * **[EtherdogsC](https://savannah.nongnu.org/git/?group=etherdogsc)**: Low-level 802.3 network sniffer for deep-packet analysis. (C)
 
 ---
