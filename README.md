@@ -49,8 +49,8 @@ My tradecraft is engineered to simulate specific TTPs (Tactics, Techniques, and 
 
 ### 📫 Connect with Me
 
-* **LinkedIn:** [ar.linkedin.com/in/jmmicoli](https://ar.linkedin.com/in/jmmicoli)
+* **LinkedIn Profile:** [ar.linkedin.com/in/jmmicoli](https://ar.linkedin.com/in/jmmicoli)
 * **YouTube Channel:** [www.youtube.com/@josemariamicoli](https://www.youtube.com/@josemariamicoli)
-* **Email:** [josemaria.micoli@gmail.com](mailto:josemaria.micoli@gmail.com)
+* **Personal e-mail:** [josemaria.micoli@gmail.com](mailto:josemaria.micoli@gmail.com)
 
 ---
