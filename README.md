@@ -51,6 +51,7 @@ My tradecraft is engineered to simulate specific TTPs (Tactics, Techniques, and 
 
 * **LinkedIn Profile:** [ar.linkedin.com/in/jmmicoli](https://ar.linkedin.com/in/jmmicoli)
 * **YouTube Channel:** [www.youtube.com/@josemariamicoli](https://www.youtube.com/@josemariamicoli)
+* **Ghost-Hydra Intelligence Blog:** [josemariamicoli.github.io/](https://josemariamicoli.github.io/)
 * **Personal e-mail:** [josemaria.micoli@gmail.com](mailto:josemaria.micoli@gmail.com)
 
 ---
