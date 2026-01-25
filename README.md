@@ -14,7 +14,7 @@ I specialize in simulating advanced threat actor behaviors by building custom of
 * **[APEX-PRO](https://github.com/JoseMariaMicoli/APEX-PRO)**: A controlled ransomware simulator for auditing backup integrity and detection thresholds. (C#/Python/Powershell)
 * **[Log4Shell-PoC](https://github.com/JoseMariaMicoli/Log4Shell-PoC)**: High-fidelity exploitation environment for CVE-2021-44228. (Java/Python)
 * **[VectorVue](https://github.com/JoseMariaMicoli/VectorVue)**: Red Team & Penetration Testing Reporting Framework. (Python)
-* **[Hydra-Worm](https://github.com/JoseMariaMicoli/Hydra-Worm)**: is a research-oriented breach simulation framework featuring a Rust-based Agent for stealth, a Go-based Orchestrator for high-concurrency C2, and advanced capabilities for LotL propagation, polymorphic evasion, and cross-platform lateral movement. (Go/Rust)
+* **[Hydra-Worm](https://github.com/JoseMariaMicoli/Hydra-Worm)**: A Next Generation Worm Simulator Framework. (Go/Rust)
 * **[EtherdogsC](https://savannah.nongnu.org/git/?group=etherdogsc)**: Low-level 802.3 network sniffer for deep-packet analysis. (C)
 
 
@@ -56,5 +56,6 @@ My tradecraft is engineered to simulate specific TTPs (Tactics, Techniques, and 
 * **YouTube Channel:** [www.youtube.com/@josemariamicoli](https://www.youtube.com/@josemariamicoli)
 * **Ghost-Hydra Intelligence Blog:** [josemariamicoli.github.io/](https://josemariamicoli.github.io/)
 * **Personal e-mail:** [josemaria.micoli@gmail.com](mailto:josemaria.micoli@gmail.com)
+* **HackTheBox Profile** [app.hackthebox.com/users/954485](https://app.hackthebox.com/users/954485)
 
 ---
