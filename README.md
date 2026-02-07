@@ -2,6 +2,10 @@
 
 **Senior Red Team Operator | Offensive Security R&D Engineer | Tradecraft Developer**
 
+![Status](https://img.shields.io/badge/Status-Active_Research-success?style=for-the-badge&logo=activity)
+![Role](https://img.shields.io/badge/Role-Senior_Penetration_Tester-blue?style=for-the-badge&logo=security-scorecard)
+![Compliance](https://img.shields.io/badge/Compliance-NIST_SP_800--115-orange?style=for-the-badge&logo=bookstack)
+
 > **"Security is a process of constant R&D. The adversary is always building; we must build faster."**
 
 I specialize in **Research-Driven Adversary Emulation**, simulating sophisticated threat actor behaviors by developing proprietary tradecraft to bypass modern EDR/AV and Next-Gen Firewall solutions. My work focuses on the engineering of stealthy persistence, custom C2 architectures, and the exploitation of modern attack surfaces (OIDC/CI-CD/APIs).
