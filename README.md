@@ -8,17 +8,20 @@ I specialize in **Research-Driven Adversary Emulation**, simulating sophisticate
 
 ---
 
-### 🛠️ FEATURED TRADECRAFT (R&D)
+### 🛠️ Strategic R&D & Offensive Engineering
+
+*Advanced security ecosystems engineered for cross-platform adversarial simulation, heuristic risk intelligence, and NIST-compliant auditing.*
 
 | Project | Focus Area | Core Stack |
 | --- | --- | --- |
-| **[Hydra-Worm](https://github.com/JoseMariaMicoli/Hydra-Worm)** | Next-Gen Breach & Lateral Movement Simulation | `Go` `Rust` |
-| **[Hydra-C2](https://github.com/JoseMariaMicoli/Hydra-C2)** | Modular C2 Framework with Evasion-first listeners | `Rust` `Python` `Kotlin` |
-| **[VaporTrace](https://github.com/JoseMariaMicoli/VaporTrace)** | Surgical API Exploitation (OWASP API Top 10: 2023) | `Go` |
-| **[Ghost-Pipeline](https://github.com/JoseMariaMicoli/Ghost-Pipeline)** | CI/CD Post-Exploitation & OIDC Trust Hijacking | `Python` `Go` |
-| **[APEX-PRO](https://github.com/JoseMariaMicoli/APEX-PRO)** | High-fidelity Ransomware Emulation (IR Readiness) | `C#` `PowerShell` |
-| **[Log4Shell-PoC](https://github.com/JoseMariaMicoli/Log4Shell-PoC)** | High-Fidelity JNDI Exploitation & Evasion Audit | `Java` `Python` |
-| **[VectorVue](https://github.com/JoseMariaMicoli/VectorVue)** | NIST-aligned Red Team Reporting Engine | `Python` |
+| **[Hydra-Worm](https://github.com/JoseMariaMicoli/Hydra-Worm)** | **Adversarial Propagation:** Next-gen breach simulation framework. Features a **Rust-based Agent** for memory-safe stealth and a **Go-based Orchestrator** for LotL propagation and polymorphic evasion. | `Rust` `Go` |
+| **[Hydra-C2](https://github.com/JoseMariaMicoli/Hydra-C2)** | **Command & Control:** Modular Evasion-first framework with dedicated persistent agents for **Windows, Linux, and Android** mobile environments. | `Rust` `Python` `Kotlin` |
+| **[VaporTrace](https://github.com/JoseMariaMicoli/VaporTrace)** | **API Risk Intelligence:** Advanced Heuristic Analysis suite engineered in Go. Delivers surgical reconnaissance and transforms raw telemetry into structured compliance evidence. | `Go` |
+| **[Ghost-Pipeline](https://github.com/JoseMariaMicoli/Ghost-Pipeline)** | **Supply Chain Security:** CI/CD Post-Exploitation & OIDC Trust Hijacking for modern DevOps infrastructure audits. | `Python` `Go` |
+| **[APEX-PRO](https://github.com/JoseMariaMicoli/APEX-PRO)** | **Crisis Readiness:** High-fidelity Ransomware Emulation designed for enterprise Incident Response (IR) validation. | `C#` `PowerShell` |
+| **[Log4Shell-PoC](https://github.com/JoseMariaMicoli/Log4Shell-PoC)** | **Vulnerability R&D:** High-Fidelity JNDI Exploitation & Evasion Audit focusing on deep-packet inspection (DPI) bypass. | `Java` `Python` |
+| **[VectorVue](https://github.com/JoseMariaMicoli/VectorVue)** | **Operational Reporting:** NIST-aligned Red Team engine that transforms raw telemetry into executive risk summaries. | `Python` |
+| **[HTB-Audit-Archive](https://github.com/JoseMariaMicoli/Pentest-Audit-Portfolio)** | **Methodology Lab:** Curated repository of **HTB Penetration Testing Reports** and **NIST-compliant security audits**. | `Markdown` `Mermaid` |
 
 ---
 
