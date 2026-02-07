@@ -80,9 +80,45 @@ My research is engineered to bridge the gap between exploitation and actionable 
 
 ### ⚙️ TECHNICAL ECOSYSTEM
 
-* **Offensive Engineering:** Custom C2 Development, EDR/AV Evasion (Direct Syscalls), Binary Analysis, Reverse Engineering (Ghidra/JADX), Android Native Analysis.
-* **Target Landscapes:** Active Directory (On-prem/Azure), Cloud Native (AWS/GCP/Azure), Microservices (REST/GraphQL), Mobile Security.
-* **Infrastructure Mastery:** Sophos/Fortinet/Cisco NGFW, Linux Kernel Hardening, OIDC/OAuth2 Trust Models, CI/CD Security.
+_Strategically engineered capabilities across the full spectrum of offensive operations, from kernel-level evasion to cloud-scale exploitation._
+
+#### **Offensive Engineering & Malware R&D**
+
+- **Low-Level Evasion:** Weaponizing **Direct/Indirect Syscalls** to bypass EDR User-mode hooks; custom PE/ELF loaders; polymorphic obfuscation.
+    
+- **C2 Architecture:** Developing modular, multi-platform frameworks (**Hydra-C2**, **Hydra-Worm**) using **Rust**, **Go**, and **Kotlin** for stealthy persistence and command dispatch.
+    
+- **Mobile Reverse Engineering:** Advanced **SSL Pinning Bypass** (patching `OkHttp3`, `TrustManager`); custom APK deconstruction and runtime instrumentation via **Frida/Xposed**.
+    
+- **AI-Augmented Tradecraft:** Utilizing LLMs for rapid **Obfuscation-as-a-Code**, automating the generation of context-aware phishing pretexts, and accelerating source code auditing for 0-day discovery.
+    
+
+#### **Target Landscapes & Infrastructure**
+
+- **Hybrid Identity & AD:** Auditing complex trust relationships in **Active Directory** and **Entra ID**; mastering OIDC/OAuth2/SAML trust models via **Ghost-Pipeline**.
+    
+- **Cloud-Native Security:** IMDSv2 abuse, IAM role hijacking, and CI/CD runner poisoning within **AWS/GCP/Azure** environments.
+    
+- **API & Microservices:** Heuristic risk intelligence via **VaporTrace**; exploiting BOLA, BFLA, and Mass Assignment in REST/GraphQL.
+    
+- **Network Defense Audit:** Advanced assessment of **NGFWs (Sophos, Fortinet, Cisco)** and **Linux Kernel Hardening** configurations.
+    
+
+---
+
+### 🏗️ TECHNICAL METHODOLOGY: THE KILL CHAIN
+
+I adhere to the **NIST SP 800-115** framework to ensure a repeatable, high-fidelity, and professional testing process. Every engagement is mapped to **MITRE ATT&CK®** to provide actionable defensive intelligence.
+
+|**Phase**|**Technical Focus**|**Tooling & Tactics**|
+|---|---|---|
+|**01. Recon**|Surface Mapping|**Nmap**, **Recon-ng**, **Maltego**, **ffuf**, **Gobuster/Dirbuster**, Shodan, **BeagleSpy, Holehe**, **Wireshark/Tcpdump** (Traffic Analysis)|
+|**02. Research**|Weaponization|**Nessus**, **Metasploit**, Burp Suite Pro, **Nishang**, **VaporTrace**, **SQLmap**, AI-assisted Payload Gen|
+|**03. Foothold**|Web & API Exploitation|BOLA/IDOR, Deserialization, SSRF, **Log4Shell-PoC**, SQLi/LFI/RFI, **Evil-WinRM** (Initial Win-Shell)|
+|**04. Lateral**|Pivoting & Discovery|SSH/SOCKS, **Chisel, Ligolo-ng**, BloodHound, **Hydra-Worm**, **CrackMapExec** (Network Spraying)|
+|**05. Domain**|Internal Dominance|**Responder**, **ntlmrelayx**, Kerberoasting, **ADCS (Certipy)**, **John the Ripper / Hashcat**, **Mimikatz**|
+|**06. Impact**|Compromise & Exfil|**Apex-Pro**, Kernel Exploits, Docker Escapes, **Hydra-C2**, Token Hijacking, **Impacket** (psexec/wmiexec)|
+|**07. Reporting**|Defense & Remediation|CVSS v4.0, **VectorVue**, MITRE Mapping, Sigma/YARA Rules, AI-generated Summaries|
 
 ---
 
