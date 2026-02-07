@@ -21,7 +21,7 @@ I specialize in **Research-Driven Adversary Emulation**, simulating sophisticate
 | **[APEX-PRO](https://github.com/JoseMariaMicoli/APEX-PRO)** | **Crisis Readiness:** High-fidelity Ransomware Emulation designed for enterprise Incident Response (IR) validation. | `C#` `PowerShell` |
 | **[Log4Shell-PoC](https://github.com/JoseMariaMicoli/Log4Shell-PoC)** | **Vulnerability R&D:** High-Fidelity JNDI Exploitation & Evasion Audit focusing on deep-packet inspection (DPI) bypass. | `Java` `Python` |
 | **[VectorVue](https://github.com/JoseMariaMicoli/VectorVue)** | **Operational Reporting:** NIST-aligned Red Team engine that transforms raw telemetry into executive risk summaries. | `Python` |
-| **[Penetest-Audit-Archive](https://github.com/JoseMariaMicoli/Pentest-Audit-Portfolio)** | **Methodology Lab:** Curated repository of **HTB Penetration Testing Reports** and **NIST-compliant security audits**. | `Markdown` `Mermaid` |
+| **[Pentest-Audit-Archive](https://github.com/JoseMariaMicoli/Pentest-Audit-Portfolio)** | **Methodology Lab:** Curated repository of **HTB Penetration Testing Reports** and **NIST-compliant security audits**. | `Markdown` `Mermaid` |
 
 ---
 
