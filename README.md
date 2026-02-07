@@ -88,11 +88,13 @@ My research is engineered to bridge the gap between exploitation and actionable 
 
 ### 🌐 INTEL & CONNECTIVITY
 
-* **Research Blog:** [josemariamicoli.github.io](https://josemariamicoli.github.io/) (Ghost-Hydra Intelligence)
-* **Professional:** [LinkedIn](https://ar.linkedin.com/in/jmmicoli)
-* **Technical/Offensive:** [HackTheBox](https://app.hackthebox.com/users/954485)
-* **Standard Communication:** [josemaria.micoli@gmail.com](mailto:josemaria.micoli@gmail.com)
-* **Encrypted Communication:** [ghost-hydra@proton.me](mailto:ghost-hydra@proton.me)
-* **Video PoCs:** [YouTube @josemariamicoli](https://www.youtube.com/@josemariamicoli)
+José María Micoli Senior Red Team Operator | Offensive Security R&D Engineer
+Channel 	Link / Contact
+🌐 Research Blog 	Ghost-Hydra Intelligence
+💼 Professional 	LinkedIn Profile
+🎮 Offensive Stats 	Hack The Box Profile
+▶️ Video PoCs 	YouTube @josemariamicoli
+📧 Standard Comms 	josemaria.micoli@gmail.com
+🔒 Encrypted Comms 	ghost-hydra@proton.me
 
 ---
