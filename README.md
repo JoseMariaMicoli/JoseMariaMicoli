@@ -2,19 +2,23 @@
 > **Senior Red Team Operator | Offensive Security R&D Engineer | Tradecraft Developer**
 
 [![Role - Senior Red Team](https://img.shields.io/badge/Role-Senior_Red_Team-critical?style=for-the-badge&logo=target&logoColor=white)](https://linkedin.com/in/josemariamicoli)
-[![Specialization - Offensive R&D](https://img.shields.io/badge/R%26D-Offensive_Engineering-black?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/josemariamicoli)
+[![Specialization - Adversary Emulation](https://img.shields.io/badge/Focus-Adversary_Emulation-black?style=for-the-badge&logo=fortinet&logoColor=white)](https://github.com/josemariamicoli)
 [![Framework - MITRE ATT%26CK](https://img.shields.io/badge/Framework-MITRE_ATT%26CK-red?style=for-the-badge&logo=mitre-attack&logoColor=white)](https://attack.mitre.org/)
-[![Compliance - NIST SP 800--115](https://img.shields.io/badge/Compliance-NIST_SP_800--115-blue?style=for-the-badge&logo=nist&logoColor=white)](https://csrc.nist.gov/publications/detail/sp/800-115/final)
+[![Compliance - NIST Standards](https://img.shields.io/badge/Compliance-NIST_Standards-blue?style=for-the-badge&logo=nist&logoColor=white)](https://csrc.nist.gov/)
 
 ---
 
-### ⚡ OPERATIONAL STACK & CAPABILITIES
-| Category | Technical Ecosystem |
+### ⚡ OPERATIONAL STACK & R&D CAPABILITIES
+
+| Category | Technical Ecosystem & Tradecraft |
 | :--- | :--- |
-| **Languages** | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Tradecraft** | ![EDR Evasion](https://img.shields.io/badge/EDR-Evasion_R%26D-lightgrey?style=flat-square&logo=webassembly) ![C2 Arch](https://img.shields.io/badge/C2-Architecture-orange?style=flat-square&logo=serverfault) ![Malware Dev](https://img.shields.io/badge/Malware-Development-darkred?style=flat-square&logo=cplusplus) |
-| **Infrastructure** | ![Cloud Native](https://img.shields.io/badge/Cloud-Native_Security-0089D6?style=flat-square&logo=google-cloud&logoColor=white) ![CI/CD Security](https://img.shields.io/badge/Supply_Chain-Audit-white?style=flat-square&logo=github-actions&logoColor=black) ![Active Directory](https://img.shields.io/badge/AD-Hybrid_Identity-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) |
-| **Offensive Stats**| ![HTB Rank](https://img.shields.io/badge/HTB-Pro_Hacker-97d006?style=flat-square&logo=hack-the-box&logoColor=white) ![Research](https://img.shields.io/badge/Research-Ghost--Hydra_Intel-7F52FF?style=flat-square&logo=ghost) |
+| **Engineering** | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Tradecraft** | ![EDR Evasion](https://img.shields.io/badge/Evasion-EDR%20Silencing-lightgrey?style=flat-square&logo=webassembly) ![Syscalls](https://img.shields.io/badge/Tradecraft-Direct%20%2F%20Indirect%20Syscalls-orange?style=flat-square) ![Injection](https://img.shields.io/badge/Payloads-Polymorphic%20%2F%20In--Memory-darkred?style=flat-square) ![C2](https://img.shields.io/badge/C2-Architecture%20Design-FF8C00?style=flat-square&logo=serverfault) |
+| **Attack Surfaces** | ![API Intelligence](https://img.shields.io/badge/API-Intelligence-005571?style=flat-square&logo=postman&logoColor=white) ![Web Exploit](https://img.shields.io/badge/Web-Modern%20Exploitation-E34F26?style=flat-square&logo=google-chrome&logoColor=white) ![Identity](https://img.shields.io/badge/Identity-OIDC%20%2F%20OAuth2%20Hijacking-7F52FF?style=flat-square&logo=auth0) ![Supply Chain](https://img.shields.io/badge/Supply%20Chain-CI%2FCD%20Poisoning-white?style=flat-square&logo=github-actions&logoColor=black) |
+| **Infrastructure** | ![Cloud Native](https://img.shields.io/badge/Cloud-AWS%20%2F%20GCP%20%2F%20Azure-0089D6?style=flat-square&logo=google-cloud&logoColor=white) ![AD Entra](https://img.shields.io/badge/AD%20%2F%20Entra-Hybrid%20Identity-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Mobile](https://img.shields.io/badge/Mobile-Android%20Internals-3DDC84?style=flat-square&logo=android&logoColor=white) ![Containers](https://img.shields.io/badge/Containers-Docker%20%2F%20K8s%20Escapes-2496ED?style=flat-square&logo=docker) |
+| **Environment** | ![Windows Internals](https://img.shields.io/badge/Windows-Internals-0078D6?style=flat-square&logo=windows) ![Linux Kernel](https://img.shields.io/badge/Linux-Kernel%20Hardening-FCC624?style=flat-square&logo=linux&logoColor=black) ![Net Proto](https://img.shields.io/badge/Network-Protocol%20Manipulation-4d4d4d?style=flat-square&logo=wireshark) ![Serverless](https://img.shields.io/badge/Serverless-Security-blueviolet?style=flat-square&logo=aws-lambda) |
+| **Compliance** | ![NIST](https://img.shields.io/badge/NIST-CSP%20%2F%20800--115%20%2F%20800--61-blue?style=flat-square) ![TIBER-EU](https://img.shields.io/badge/Methodology-TIBER--EU-red?style=flat-square) ![CVSS](https://img.shields.io/badge/Risk-CVSS%20v4.0-005571?style=flat-square) ![Purple Team](https://img.shields.io/badge/Ops-Purple%20Teaming-7F52FF?style=flat-square) |
+| **Strategic** | ![Risk Intel](https://img.shields.io/badge/Intel-High%20Level%20Risk%20Intelligence-darkred?style=flat-square) ![Zero Trust](https://img.shields.io/badge/Audit-Zero--Trust%20Architecture-black?style=flat-square) ![Resilience](https://img.shields.io/badge/Validation-Adversarial%20Resilience-green?style=flat-square) |
 
 ---
 
