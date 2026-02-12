@@ -1,12 +1,27 @@
 # 🛡️ [xoce@darkarch]:~# José María Micoli
+> **Senior Red Team Operator | Offensive Security R&D Engineer | Tradecraft Developer**
 
-**Senior Red Team Operator | Offensive Security R&D Engineer | Tradecraft Developer**
+[![Role - Senior Red Team](https://img.shields.io/badge/Role-Senior_Red_Team-critical?style=for-the-badge&logo=target&logoColor=white)](https://linkedin.com/in/josemariamicoli)
+[![Specialization - Offensive R&D](https://img.shields.io/badge/R%26D-Offensive_Engineering-black?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/josemariamicoli)
+[![Framework - MITRE ATT%26CK](https://img.shields.io/badge/Framework-MITRE_ATT%26CK-red?style=for-the-badge&logo=mitre-attack&logoColor=white)](https://attack.mitre.org/)
+[![Compliance - NIST SP 800--115](https://img.shields.io/badge/Compliance-NIST_SP_800--115-blue?style=for-the-badge&logo=nist&logoColor=white)](https://csrc.nist.gov/publications/detail/sp/800-115/final)
 
-![Status](https://img.shields.io/badge/Status-Active_Research-success?style=for-the-badge&logo=activity)
-![Role](https://img.shields.io/badge/Role-Senior_Penetration_Tester-blue?style=for-the-badge&logo=security-scorecard)
-![Role](https://img.shields.io/badge/Role-Senior_Red_Team_Operator-red?style=for-the-badge&logo=security-scorecard)
-![Compliance](https://img.shields.io/badge/Compliance-NIST_SP_800--115-orange?style=for-the-badge&logo=bookstack)
-![Compliance](https://img.shields.io/badge/Compliance-MITRE_ATT&CK-orange?style=for-the-badge&logo=bookstack)
+---
+
+### ⚡ OPERATIONAL STACK & CAPABILITIES
+| Category | Technical Ecosystem |
+| :--- | :--- |
+| **Languages** | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Tradecraft** | ![EDR Evasion](https://img.shields.io/badge/EDR-Evasion_R%26D-lightgrey?style=flat-square&logo=webassembly) ![C2 Arch](https://img.shields.io/badge/C2-Architecture-orange?style=flat-square&logo=serverfault) ![Malware Dev](https://img.shields.io/badge/Malware-Development-darkred?style=flat-square&logo=cplusplus) |
+| **Infrastructure** | ![Cloud Native](https://img.shields.io/badge/Cloud-Native_Security-0089D6?style=flat-square&logo=google-cloud&logoColor=white) ![CI/CD Security](https://img.shields.io/badge/Supply_Chain-Audit-white?style=flat-square&logo=github-actions&logoColor=black) ![Active Directory](https://img.shields.io/badge/AD-Hybrid_Identity-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) |
+| **Offensive Stats**| ![HTB Rank](https://img.shields.io/badge/HTB-Pro_Hacker-97d006?style=flat-square&logo=hack-the-box&logoColor=white) ![Research](https://img.shields.io/badge/Research-Ghost--Hydra_Intel-7F52FF?style=flat-square&logo=ghost) |
+
+---
+
+### 🔬 CORE FOCUS
+"Security is a process of constant R&D. The adversary is always building; we must build faster."
+
+I specialize in **Research-Driven Adversary Emulation**, simulating sophisticated threat actor behaviors by developing proprietary tradecraft to bypass modern EDR/AV and Next-Gen Firewall solutions. My work focuses on the engineering of stealthy persistence, custom C2 architectures, and the exploitation of modern attack surfaces (OIDC/CI-CD/APIs).
 
 > **"Security is a process of constant R&D. The adversary is always building; we must build faster."**
 
