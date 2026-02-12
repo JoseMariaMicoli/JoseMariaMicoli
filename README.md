@@ -19,9 +19,6 @@
 ---
 
 ### 🔬 CORE FOCUS
-"Security is a process of constant R&D. The adversary is always building; we must build faster."
-
-I specialize in **Research-Driven Adversary Emulation**, simulating sophisticated threat actor behaviors by developing proprietary tradecraft to bypass modern EDR/AV and Next-Gen Firewall solutions. My work focuses on the engineering of stealthy persistence, custom C2 architectures, and the exploitation of modern attack surfaces (OIDC/CI-CD/APIs).
 
 > **"Security is a process of constant R&D. The adversary is always building; we must build faster."**
 
