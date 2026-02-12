@@ -4,7 +4,9 @@
 
 ![Status](https://img.shields.io/badge/Status-Active_Research-success?style=for-the-badge&logo=activity)
 ![Role](https://img.shields.io/badge/Role-Senior_Penetration_Tester-blue?style=for-the-badge&logo=security-scorecard)
+![Role](https://img.shields.io/badge/Role-Senior_Red_Team_Operator-red?style=for-the-badge&logo=security-scorecard)
 ![Compliance](https://img.shields.io/badge/Compliance-NIST_SP_800--115-orange?style=for-the-badge&logo=bookstack)
+![Compliance](https://img.shields.io/badge/Compliance-MITRE_ATT&CK-orange?style=for-the-badge&logo=bookstack)
 
 > **"Security is a process of constant R&D. The adversary is always building; we must build faster."**
 
@@ -110,22 +112,22 @@ _Strategically engineered capabilities across the full spectrum of offensive ope
 
 I adhere to the **NIST SP 800-115** framework to ensure a repeatable, high-fidelity, and professional testing process. Every engagement is mapped to **MITRE ATT&CK®** to provide actionable defensive intelligence.
 
-|**Phase**|**Technical Focus**|**Tooling & Tactics**|
-|---|---|---|
-|**01. Recon**|Surface Mapping|**Nmap**, **Recon-ng**, **Maltego**, **ffuf**, **Gobuster/Dirbuster**, Shodan, **BeagleSpy, Holehe**, **Wireshark/Tcpdump** (Traffic Analysis)|
-|**02. Research**|Weaponization|**Nessus**, **Metasploit**, Burp Suite Pro, **Nishang**, **VaporTrace**, **SQLmap**, AI-assisted Payload Gen|
-|**03. Foothold**|Web & API Exploitation|BOLA/IDOR, Deserialization, SSRF, **Log4Shell-PoC**, SQLi/LFI/RFI, **Evil-WinRM** (Initial Win-Shell)|
-|**04. Lateral**|Pivoting & Discovery|SSH/SOCKS, **Chisel, Ligolo-ng**, BloodHound, **Hydra-Worm**, **CrackMapExec** (Network Spraying)|
-|**05. Domain**|Internal Dominance|**Responder**, **ntlmrelayx**, Kerberoasting, **ADCS (Certipy)**, **John the Ripper / Hashcat**, **Mimikatz**|
-|**06. Impact**|Compromise & Exfil|**Apex-Pro**, Kernel Exploits, Docker Escapes, **Hydra-C2**, Token Hijacking, **Impacket** (psexec/wmiexec)|
-|**07. Reporting**|Defense & Remediation|CVSS v4.0, **VectorVue**, MITRE Mapping, Sigma/YARA Rules, AI-generated Summaries|
+| **Phase**         | **Technical Focus**    | **Tooling & Tactics**                                                                                                                          |
+| ----------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **01. Recon**     | Surface Mapping        | **Nmap**, **Recon-ng**, **Maltego**, **ffuf**, **Gobuster/Dirbuster**, Shodan, **BeagleSpy, Holehe**, **Wireshark/Tcpdump** (Traffic Analysis) |
+| **02. Research**  | Weaponization          | **Nessus**, **Metasploit**, Burp Suite Pro, **Nishang**, **VaporTrace**, **SQLmap**, AI-assisted Payload Gen                                   |
+| **03. Foothold**  | Web & API Exploitation | BOLA/IDOR, Deserialization, SSRF, **Log4Shell-PoC**, SQLi/LFI/RFI, **Evil-WinRM** (Initial Win-Shell)                                          |
+| **04. Lateral**   | Pivoting & Discovery   | SSH/SOCKS, **Chisel, Ligolo-ng**, BloodHound, **Hydra-Worm**, **CrackMapExec** (Network Spraying)                                              |
+| **05. Domain**    | Internal Dominance     | **Responder**, **ntlmrelayx**, Kerberoasting, **ADCS (Certipy)**, **John the Ripper / Hashcat**, **Mimikatz**                                  |
+| **06. Impact**    | Compromise & Exfil     | **Apex-Pro**, Kernel Exploits, Docker Escapes, **Hydra-C2**, Token Hijacking, **Impacket** (psexec/wmiexec)                                    |
+| **07. Reporting** | Defense & Remediation  | CVSS v4.0, **VectorVue**, MITRE Mapping, Sigma/YARA Rules, AI-generated Summaries                                                              |
 
 ---
 
 ### 📞 INTEL & CONNECTIVITY
 
 **José María Micoli**
-*Senior Red Team Operator | Offensive Security R&D Engineer
+Senior Red Team Operator | Offensive Security R&D Engineer
 
 | Channel | Link / Contact |
 | :--- | :--- |
