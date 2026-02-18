@@ -72,7 +72,7 @@ The objective is not compromise — the objective is measurable defensive assura
 | **[Ghost-Pipeline](https://github.com/JoseMariaMicoli/Ghost-Pipeline)**                   | CI/CD & OIDC Abuse Simulation     | Supply-chain trust validation                                 | Python / Go            | Apache-2.0       |
 | **[APEX-PRO](https://github.com/JoseMariaMicoli/APEX-PRO)**                               | Ransomware Emulation              | Incident response readiness & containment                     | C# / PowerShell        | BSL → Apache-2.0 |
 | **[Log4Shell-PoC](https://github.com/JoseMariaMicoli/Log4Shell-PoC)**                     | Vulnerability R&D                 | DPI/WAF detection behavior                                    | Java / Python          | MIT              |
-| **[VectorVue](https://github.com/JoseMariaMicoli/VectorVue)**                             | Reporting Engine                  | Executive risk communication & audit evidence                 | Python                 | Apache-2.0       |
+| **[VectorVue](https://github.com/JoseMariaMicoli/VectorVue)**                             | Reporting Engine                  | Executive risk communication & audit evidence                 | Python                 | BSL → Apache-2.0 |
 | **[Pentest-Audit-Portfolio](https://github.com/JoseMariaMicoli/Pentest-Audit-Portfolio)** | Professional Audit Reports        | Realistic enterprise-style reports using HTB lab environments | Markdown               | MIT              |
 
 These tools are not standalone products — they are internal tradecraft used to simulate attacker decision making during adversary emulation engagements.
