@@ -64,16 +64,19 @@ The objective is not compromise — the objective is measurable defensive assura
 
 ## 🛠️ Strategic R&D & Offensive Engineering
 
-| Project                                                                                   | Focus Area                        | What it Validates                                             | Stack                  | License          |
-| ----------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------------------------------------- | ---------------------- | ---------------- |
-| **[Hydra-Worm](https://github.com/JoseMariaMicoli/Hydra-Worm)**                           | Adversarial Propagation Framework | Lateral movement detection & segmentation failures            | Rust / Go              | AGPLv3           |
-| **[Hydra-C2](https://github.com/JoseMariaMicoli/Hydra-C2)**                               | Multi-platform Command & Control  | EDR behavioral detection & persistence visibility             | Rust / Python / Kotlin | AGPLv3           |
-| **[VaporTrace](https://github.com/JoseMariaMicoli/VaporTrace)**                           | API Risk Intelligence             | API monitoring & anomaly detection effectiveness              | Go                     | BSL → Apache-2.0 |
-| **[Ghost-Pipeline](https://github.com/JoseMariaMicoli/Ghost-Pipeline)**                   | CI/CD & OIDC Abuse Simulation     | Supply-chain trust validation                                 | Python / Go            | Apache-2.0       |
-| **[APEX-PRO](https://github.com/JoseMariaMicoli/APEX-PRO)**                               | Ransomware Emulation              | Incident response readiness & containment                     | C# / PowerShell        | BSL → Apache-2.0 |
-| **[Log4Shell-PoC](https://github.com/JoseMariaMicoli/Log4Shell-PoC)**                     | Vulnerability R&D                 | DPI/WAF detection behavior                                    | Java / Python          | MIT              |
-| **[VectorVue](https://github.com/NyxeraLabs/VectorVue)**                             | Reporting Engine                  | Executive risk communication & audit evidence                 | Python                 | BSL → Apache-2.0 |
-| **[Pentest-Audit-Portfolio](https://github.com/JoseMariaMicoli/Pentest-Audit-Portfolio)** | Professional Audit Reports        | Realistic enterprise-style reports using HTB lab environments | Markdown               | MIT              |
+Enterprise-grade adversary simulation, CI/CD trust exploitation, ransomware emulation, autonomous detection engineering and security validation platforms.
+
+| Project | Focus Area | What it Validates | Stack | License |
+| ----------------------------------------------------------------------------------------- | --------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------- | ---------------- |
+| **[VectorVue](https://github.com/NyxeraLabs/VectorVue)** | Security Validation & Assurance Platform | Continuous measurement of security controls, regulatory mapping (ISO 27001 / SOC 2 / HIPAA), audit-ready reporting | Python / TypeScript | BSL → Apache-2.0 |
+| **[SpectraStrike](https://github.com/NyxeraLabs/SpectraStrike)** | Autonomous Detection & Threat Correlation Engine | Real-time adversary behavior detection, telemetry analysis, threat intelligence correlation & predictive scoring | TypeScript / Python | BSL → Apache-2.0 |
+| **[Hydra-Worm](https://github.com/JoseMariaMicoli/Hydra-Worm)** | Adversarial Propagation Framework | Cross-platform lateral movement testing, segmentation failures, polymorphic C2 evasion & artifact harvesting | Rust / Go | AGPLv3 |
+| **[Hydra-C2](https://github.com/JoseMariaMicoli/Hydra-C2)** | Multi-platform Command & Control | EDR/NGFW behavioral detection gaps, persistence visibility & lateral movement simulations | Rust / Python / Kotlin | AGPLv3 |
+| **[VaporTrace](https://github.com/JoseMariaMicoli/VaporTrace)** | Autonomous API Risk Intelligence | OWASP API Top 10 testing automation, API monitoring, anomaly detection & abuse pattern discovery | Go | BSL → Apache-2.0 |
+| **[Ghost-Pipeline](https://github.com/JoseMariaMicoli/Ghost-Pipeline)** | CI/CD & OIDC Abuse Simulation | Supply-chain trust validation, short-lived JWT interception, encrypted log exfiltration & multi-cloud pivot simulation | Python / Go | Apache-2.0 |
+| **[APEX-PRO](https://github.com/JoseMariaMicoli/APEX-PRO)** | Ransomware Emulation Framework | Incident response readiness, multi-stage agent execution, AES-256 encryption tradecraft & forensic reporting automation | C# / PowerShell / Python | BSL → Apache-2.0 |
+| **[Log4Shell-PoC](https://github.com/JoseMariaMicoli/Log4Shell-PoC)** | Vulnerability R&D | DPI/WAF detection behavior analysis & exploit reproduction in controlled environments | Java / Python | MIT |
+| **[Pentest-Audit-Portfolio](https://github.com/JoseMariaMicoli/Pentest-Audit-Portfolio)** | Professional Penetration Testing Reports | Enterprise-style reporting, root-cause analysis, business impact assessment & Purple Team defensive appendices | Markdown | MIT |
 
 These tools are not standalone products — they are internal tradecraft used to simulate attacker decision making during adversary emulation engagements.
 
