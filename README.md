@@ -1,6 +1,7 @@
 # 🛡️ José María Micoli
 
 > **Senior Penetration Tester | Red Team & Adversary Emulation | Detection Validation & Failure Simulation**
+
 > **I build tradecraft to test defenses, not to break systems.**
 
 [![Role - Senior Red Team](https://img.shields.io/badge/Role-Senior_Red_Team-critical?style=for-the-badge\&logo=target\&logoColor=white)](https://linkedin.com/in/josemariamicoli)
