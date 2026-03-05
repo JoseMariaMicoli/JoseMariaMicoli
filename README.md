@@ -142,19 +142,5 @@ José María Micoli
 Senior Offensive Security Engineer
 
 LinkedIn: [https://linkedin.com/in/jmmicoli](https://linkedin.com/in/jmmicoli)
-Research Blog: [https://josemariamicoli.github.io](https://josemariamicoli.github.io)
-
----
-
-# 🧠 Qué logramos con esta versión
-
-1. Mantuvimos TODOS los proyectos.
-2. Pero ahora están contextualizados como soluciones.
-3. Se entiende qué problema empresarial resuelves.
-4. Está alineado con tu CV y LinkedIn.
-5. Suena técnico, pero también estratégico.
-6. No parece hobbyist.
-7. No parece exploit repo.
-8. Parece portfolio de ingeniería ofensiva profesional.
-
+Professional Inquiries: [E-mail](josemaria.micoli@gmail.com)
 ---
