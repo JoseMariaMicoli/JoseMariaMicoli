@@ -142,12 +142,11 @@ This portfolio exists to strengthen defensive security — not to enable unautho
 Senior Offensive Security Engineer
 Red Team • Adversary Emulation • API & Cloud Security
 
-🌐 LinkedIn: [https://linkedin.com/in/jmmicoli](https://linkedin.com/in/jmmicoli)
-🏢 Nyxera Labs: [https://nyxera.cloud](https://nyxera.cloud)
-🧠 Hack The Box: [https://app.hackthebox.com/profile/TU_USERNAME](https://app.hackthebox.com/profile/TU_USERNAME)
+- 🌐 LinkedIn: [https://linkedin.com/in/jmmicoli](https://linkedin.com/in/jmmicoli)
+- 🏢 Nyxera Labs: [https://nyxera.cloud](https://nyxera.cloud)
+- 🧠 Hack The Box: [https://app.hackthebox.com/profile/TU_USERNAME](https://app.hackthebox.com/profile/TU_USERNAME)
 
-📧 Professional Inquiries: [josemaria.micoli@gmail.com](mailto:josemaria.micoli@gmail.com)
-🔐 Secure Contact (PGP available upon request)
+- 📧 Professional Inquiries: [josemaria.micoli@gmail.com](mailto:josemaria.micoli@gmail.com)
 
 ---
 ---
