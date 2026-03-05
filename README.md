@@ -141,6 +141,10 @@ This portfolio exists to strengthen defensive security — not to enable unautho
 José María Micoli
 Senior Offensive Security Engineer
 
-LinkedIn: [https://linkedin.com/in/jmmicoli](https://linkedin.com/in/jmmicoli)
-Professional Inquiries: [E-mail](josemaria.micoli@gmail.com)
+🌐 LinkedIn: [https://linkedin.com/in/jmmicoli](https://linkedin.com/in/jmmicoli)
+📝 Research Blog: [https://josemariamicoli.github.io](https://josemariamicoli.github.io)
+📧 Professional Inquiries: [josemaria.micoli@gmail.com](mailto:josemaria.micoli@gmail.com)
+🎮 Hack The Box: [https://app.hackthebox.com/public/users/954485](https://app.hackthebox.com/public/users/954485)
+
+---
 ---
