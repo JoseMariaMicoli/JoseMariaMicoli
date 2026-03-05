@@ -40,22 +40,37 @@ My portfolio is engineered to address those systemic weaknesses.
 
 ---
 
+Perfecto.
+Tienes razón — si los títulos no enlazan al repo, estás perdiendo UX y profesionalismo técnico.
+
+En GitHub README, el estándar correcto es:
+
+```markdown
+[Nombre del Proyecto](https://github.com/usuario/repositorio)
+```
+
+El link debe estar en el título del proyecto, no aparte.
+
+Te lo dejo corregido, manteniendo tu tono executive y tu posicionamiento actual:
+
+---
+
 ## Strategic Security Platforms
 
 Production-oriented platforms built to operationalize adversary emulation and structured validation workflows.
 
-| Project                     | Focus Area                                       | Business Value                                                 |
-| --------------------------- | ------------------------------------------------ | -------------------------------------------------------------- |
-| **VectorVue**               | Security Validation & Assurance                  | Continuous control measurement & compliance-aligned reporting  |
-| **SpectraStrike**           | Adversarial Orchestration & Telemetry Governance | Structured attacker modeling with measurable detection outputs |
-| **VaporTrace**              | Autonomous API Risk Intelligence                 | Attack-path driven API risk exposure analysis                  |
-| **VaporLab**                | Offensive API & AI Exploitation Lab              | Advanced authorization & AI attack surface validation          |
-| **Ghost-Pipeline**          | CI/CD & OIDC Abuse Simulation                    | Supply-chain trust boundary validation                         |
-| **APEX-PRO**                | Ransomware Emulation Framework                   | Incident response readiness measurement                        |
-| **Hydra-C2**                | Multi-Platform Command & Control                 | Telemetry visibility gap analysis                              |
-| **Hydra-Worm**              | Adversarial Propagation Framework                | Segmentation and lateral movement resilience testing           |
-| **Log4Shell-PoC**           | Vulnerability R&D                                | Detection and WAF behavior validation                          |
-| **Pentest-Audit-Portfolio** | Professional Reporting Framework                 | Executive-grade risk communication modeling                    |
+| Project                                                                              | Focus Area                                       | Business Value                                                 |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------ | -------------------------------------------------------------- |
+| **[VectorVue](https://github.com/TU_USUARIO/VectorVue)**                             | Security Validation & Assurance                  | Continuous control measurement & compliance-aligned reporting  |
+| **[SpectraStrike](https://github.com/TU_USUARIO/SpectraStrike)**                     | Adversarial Orchestration & Telemetry Governance | Structured attacker modeling with measurable detection outputs |
+| **[VaporTrace](https://github.com/TU_USUARIO/VaporTrace)**                           | Autonomous API Risk Intelligence                 | Attack-path driven API risk exposure analysis                  |
+| **[VaporLab](https://github.com/TU_USUARIO/VaporLab)**                               | Offensive API & AI Exploitation Lab              | Advanced authorization & AI attack surface validation          |
+| **[Ghost-Pipeline](https://github.com/TU_USUARIO/Ghost-Pipeline)**                   | CI/CD & OIDC Abuse Simulation                    | Supply-chain trust boundary validation                         |
+| **[APEX-PRO](https://github.com/TU_USUARIO/APEX-PRO)**                               | Ransomware Emulation Framework                   | Incident response readiness measurement                        |
+| **[Hydra-C2](https://github.com/TU_USUARIO/Hydra-C2)**                               | Multi-Platform Command & Control                 | Telemetry visibility gap analysis                              |
+| **[Hydra-Worm](https://github.com/TU_USUARIO/Hydra-Worm)**                           | Adversarial Propagation Framework                | Segmentation and lateral movement resilience testing           |
+| **[Log4Shell-PoC](https://github.com/TU_USUARIO/Log4Shell-PoC)**                     | Vulnerability R&D                                | Detection and WAF behavior validation                          |
+| **[Pentest-Audit-Portfolio](https://github.com/TU_USUARIO/Pentest-Audit-Portfolio)** | Professional Reporting Framework                 | Executive-grade risk communication modeling                    |
 
 These systems bridge offensive execution with detection engineering and governance outcomes.
 
