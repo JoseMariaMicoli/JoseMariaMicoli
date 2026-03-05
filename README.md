@@ -138,13 +138,16 @@ This portfolio exists to strengthen defensive security — not to enable unautho
 
 ## Contact
 
-José María Micoli
+**José María Micoli**
 Senior Offensive Security Engineer
+Red Team • Adversary Emulation • API & Cloud Security
 
-- 🌐 LinkedIn: [https://linkedin.com/in/jmmicoli](https://linkedin.com/in/jmmicoli)
-- 📝 Research Blog: [https://josemariamicoli.github.io](https://josemariamicoli.github.io)
-- 📧 Professional Inquiries: [josemaria.micoli@gmail.com](mailto:josemaria.micoli@gmail.com)
-- 🎮 Hack The Box: [https://app.hackthebox.com/public/users/954485](https://app.hackthebox.com/public/users/954485)
+🌐 LinkedIn: [https://linkedin.com/in/jmmicoli](https://linkedin.com/in/jmmicoli)
+🏢 Nyxera Labs: [https://nyxera.cloud](https://nyxera.cloud)
+🧠 Hack The Box: [https://app.hackthebox.com/profile/TU_USERNAME](https://app.hackthebox.com/profile/TU_USERNAME)
+
+📧 Professional Inquiries: [josemaria.micoli@gmail.com](mailto:josemaria.micoli@gmail.com)
+🔐 Secure Contact (PGP available upon request)
 
 ---
 ---
