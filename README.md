@@ -29,12 +29,12 @@ The objective is **measurable defensive assurance with operational and business 
 
 Organizations typically struggle with:
 
-- • Blind spots in EDR and SIEM detection
-- • IAM trust abuse across cloud-native architectures
-- • API authorization weaknesses (BOLA/BFLA patterns)
-- • Overreliance on point-in-time penetration testing
-- • Lack of measurable security control performance
-- • Compliance frameworks disconnected from technical reality
+- Blind spots in EDR and SIEM detection
+- IAM trust abuse across cloud-native architectures
+- API authorization weaknesses (BOLA/BFLA patterns)
+- Overreliance on point-in-time penetration testing
+- Lack of measurable security control performance
+- Compliance frameworks disconnected from technical reality
 
 My portfolio is engineered to address those systemic weaknesses.
 
