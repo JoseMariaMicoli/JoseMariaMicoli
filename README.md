@@ -29,29 +29,14 @@ The objective is **measurable defensive assurance with operational and business 
 
 Organizations typically struggle with:
 
-• Blind spots in EDR and SIEM detection
-• IAM trust abuse across cloud-native architectures
-• API authorization weaknesses (BOLA/BFLA patterns)
-• Overreliance on point-in-time penetration testing
-• Lack of measurable security control performance
-• Compliance frameworks disconnected from technical reality
+- • Blind spots in EDR and SIEM detection
+- • IAM trust abuse across cloud-native architectures
+- • API authorization weaknesses (BOLA/BFLA patterns)
+- • Overreliance on point-in-time penetration testing
+- • Lack of measurable security control performance
+- • Compliance frameworks disconnected from technical reality
 
 My portfolio is engineered to address those systemic weaknesses.
-
----
-
-Perfecto.
-Tienes razón — si los títulos no enlazan al repo, estás perdiendo UX y profesionalismo técnico.
-
-En GitHub README, el estándar correcto es:
-
-```markdown
-[Nombre del Proyecto](https://github.com/usuario/repositorio)
-```
-
-El link debe estar en el título del proyecto, no aparte.
-
-Te lo dejo corregido, manteniendo tu tono executive y tu posicionamiento actual:
 
 ---
 
