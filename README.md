@@ -44,18 +44,19 @@ My portfolio is engineered to address those systemic weaknesses.
 
 Production-oriented platforms built to operationalize adversary emulation and structured validation workflows.
 
-| Project                                                                              | Focus Area                                       | Business Value                                                 |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------ | -------------------------------------------------------------- |
-| **[VectorVue](https://github.com/nyxeralabs/VectorVue)**                             | Security Validation & Assurance                  | Continuous control measurement & compliance-aligned reporting  |
-| **[SpectraStrike](https://github.com/nyxeralabs/SpectraStrike)**                     | Adversarial Orchestration & Telemetry Governance | Structured attacker modeling with measurable detection outputs |
-| **[VaporTrace](https://github.com/josemariamicoli/VaporTrace)**                           | Autonomous API Risk Intelligence                 | Attack-path driven API risk exposure analysis                  |
-| **[VaporLab](https://github.com/nyxeralabs/VaporLab)**                               | Offensive API & AI Exploitation Lab              | Advanced authorization & AI attack surface validation          |
-| **[Ghost-Pipeline](https://github.com/josemariamicoli/Ghost-Pipeline)**                   | CI/CD & OIDC Abuse Simulation                    | Supply-chain trust boundary validation                         |
-| **[APEX-PRO](https://github.com/josemariamicoli/APEX-PRO)**                               | Ransomware Emulation Framework                   | Incident response readiness measurement                        |
-| **[Hydra-C2](https://github.com/josemariamicoli/Hydra-C2)**                               | Multi-Platform Command & Control                 | Telemetry visibility gap analysis                              |
-| **[Hydra-Worm](https://github.com/josemariamicoli/Hydra-Worm)**                           | Adversarial Propagation Framework                | Segmentation and lateral movement resilience testing           |
-| **[Log4Shell-PoC](https://github.com/josemariamicoli/Log4Shell-PoC)**                     | Vulnerability R&D                                | Detection and WAF behavior validation                          |
-| **[Pentest-Audit-Portfolio](https://github.com/josemariamicoli/Pentest-Audit-Portfolio)** | Professional Reporting Framework                 | Executive-grade risk communication modeling                    |
+| Project                                                                                   | Focus Area                                       | Business Value                                                                                             |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| **[VectorVue](https://github.com/nyxeralabs/VectorVue)**                                  | Security Validation & Assurance                  | Continuous control measurement & compliance-aligned reporting                                              |
+| **[SpectraStrike](https://github.com/nyxeralabs/SpectraStrike)**                          | Adversarial Orchestration & Telemetry Governance | Structured attacker modeling with measurable detection outputs                                             |
+| **[VaporTrace](https://github.com/josemariamicoli/VaporTrace)**                           | Autonomous API Risk Intelligence                 | Attack-path driven API risk exposure analysis                                                              |
+| **[VaporLab](https://github.com/nyxeralabs/VaporLab)**                                    | Offensive API & AI Exploitation Lab              | Advanced authorization & AI attack surface validation                                                      |
+| **[Ghost-Pipeline](https://github.com/josemariamicoli/Ghost-Pipeline)**                   | CI/CD & OIDC Abuse Simulation                    | Supply-chain trust boundary validation                                                                     |
+| **[APEX-PRO](https://github.com/josemariamicoli/APEX-PRO)**                               | Ransomware Emulation Framework                   | Incident response readiness measurement                                                                    |
+| **[Hydra-C2](https://github.com/josemariamicoli/Hydra-C2)**                               | Multi-Platform Command & Control                 | Telemetry visibility gap analysis                                                                          |
+| **[Hydra-Worm](https://github.com/josemariamicoli/Hydra-Worm)**                           | Adversarial Propagation Framework                | Segmentation and lateral movement resilience testing                                                       |
+| **[Log4Shell-PoC](https://github.com/josemariamicoli/Log4Shell-PoC)**                     | Vulnerability R&D                                | Detection and WAF behavior validation                                                                      |
+| **[Pentest-Audit-Portfolio](https://github.com/josemariamicoli/Pentest-Audit-Portfolio)** | Professional Reporting Framework                 | Executive-grade risk communication modeling                                                                |
+| **[Nyxera Eye](https://github.com/NyxeraLabs/Nyxera-Eye)**                                | IoT & ICS Attack Surface Intelligence Platform   | Continuous asset discovery, device fingerprinting, vulnerability intelligence, and global exposure mapping |
 
 These systems bridge offensive execution with detection engineering and governance outcomes.
 
