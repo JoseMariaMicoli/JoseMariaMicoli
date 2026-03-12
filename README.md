@@ -56,8 +56,8 @@ Production-oriented platforms built to operationalize adversary emulation and st
 | **[Hydra-Worm](https://github.com/josemariamicoli/Hydra-Worm)**                           | Adversarial Propagation Framework                | Segmentation and lateral movement resilience testing                                                       |
 | **[Nyxera Eye](https://github.com/NyxeraLabs/Nyxera-Eye)**                                | IoT & ICS Attack Surface Intelligence Platform   | Continuous asset discovery, device fingerprinting, vulnerability intelligence, and global exposure mapping |
 | **[Log4Shell-PoC](https://github.com/josemariamicoli/Log4Shell-PoC)**                     | Vulnerability R&D                                | Detection and WAF behavior validation                                                                      |
-| **[Pentest-Audit-Portfolio](https://github.com/josemariamicoli/Pentest-Audit-Portfolio)** | Professional Reporting Framework                 | Executive-grade risk communication modeling                                                                |
-| **[RED-TEAM Labs](https://github.com/JoseMariaMicoli/RED-TEAM-Labs)**                     | Adversary Infrastructure Simulation & APT-Aligned Exercises     | Repeatable red team training and validation with evidence-driven workflows                                 |
+| **[Pentest-Reports-Portfolio](https://github.com/josemariamicoli/Pentest-Audit-Portfolio)** | Professional Reporting Framework                 | Executive-grade risk communication modeling                                                                |
+| **[Adversary Simulation Lab](https://github.com/JoseMariaMicoli/Adversary-Simulation-Lab)**                     | Adversary Infrastructure Simulation & APT-Aligned Exercises     | Repeatable red team training and validation with evidence-driven workflows                                 |
 
 These systems bridge offensive execution with detection engineering and governance outcomes.
 
