@@ -46,26 +46,40 @@ This portfolio contains research platforms, adversary simulation infrastructure,
 
 ---
 
-# Strategic Security Platforms
+## Strategic Security Platforms
 
-Security engineering platforms designed to operationalize **continuous adversary simulation and security validation.**
+The following platforms represent the core systems within this offensive security engineering portfolio.
+Each repository focuses on adversary simulation, security validation, or attack-surface intelligence across enterprise environments.
 
-| Platform | Domain | Purpose |
-|--------|--------|--------|
-| VectorVue | Security Validation | Continuous control validation & compliance mapping |
-| SpectraStrike | Red Team Orchestration | Structured adversary simulation campaigns |
-| VaporTrace | API Risk Intelligence | Automated API attack-path discovery |
-| VaporLab | API & AI Exploitation | Offensive research and testing environment |
-| Ghost-Pipeline | CI/CD Security | OIDC token abuse & supply-chain simulation |
-| APEX-PRO | Ransomware Emulation | Incident response readiness measurement |
-| Hydra-C2 | Red Team Infrastructure | Multi-platform command and control |
-| Hydra-Worm | Adversarial Propagation | Lateral movement & segmentation testing |
-| Nyxera Eye | IoT / ICS Intelligence | Global attack surface discovery |
-| Log4Shell-PoC | Vulnerability Research | Detection validation and WAF analysis |
-| Pentest Reports Portfolio | Security Reporting | Executive-grade reporting models |
-| Adversary Simulation Lab | Red Team Lab | Structured adversary training infrastructure |
+| Platform                                                                                  | Domain                       | Purpose                                            |
+| ----------------------------------------------------------------------------------------- | ---------------------------- | -------------------------------------------------- |
+| 🛡 **[VectorVue](https://github.com/jmmicoli/VectorVue)**                                 | Security Validation Platform | Continuous control validation & compliance mapping |
+| 🔴 **[SpectraStrike](https://github.com/jmmicoli/SpectraStrike)**                         | Red Team Orchestration       | Structured adversary simulation campaigns          |
+| 🌐 **[VaporTrace](https://github.com/jmmicoli/VaporTrace)**                               | API Risk Intelligence        | Automated API attack-path discovery                |
+| 🧪 **[VaporLab](https://github.com/jmmicoli/VaporLab)**                                   | API & AI Exploitation        | Offensive research and testing environment         |
+| 📡 **[Nyxera Eye](https://github.com/jmmicoli/Nyxera-Eye)**                               | IoT / ICS Intelligence       | Global attack surface discovery                    |
+| ⚙️ **[Ghost-Pipeline](https://github.com/jmmicoli/Ghost-Pipeline)**                       | CI/CD Security               | OIDC token abuse & supply-chain simulation         |
+| 💀 **[APEX-PRO](https://github.com/jmmicoli/APEX-PRO)**                                   | Ransomware Emulation         | Incident response readiness measurement            |
+| 🐙 **[Hydra-C2](https://github.com/jmmicoli/Hydra-C2)**                                   | Red Team Infrastructure      | Multi-platform command and control                 |
+| 🐍 **[Hydra-Worm](https://github.com/jmmicoli/Hydra-Worm)**                               | Adversarial Propagation      | Lateral movement & segmentation testing            |
+| 🧨 **[Log4Shell-PoC](https://github.com/jmmicoli/Log4Shell-PoC)**                         | Vulnerability Research       | Detection validation and WAF analysis              |
+| 🧱 **[Adversary Simulation Lab](https://github.com/jmmicoli/Adversary-Simulation-Lab)**   | Red Team Lab                 | Structured adversary training infrastructure       |
+| 📑 **[Pentest Reports Portfolio](https://github.com/jmmicoli/Pentest-Reports-Portfolio)** | Security Reporting           | Executive-grade reporting models                   |
 
-These systems bridge **offensive execution with detection engineering and governance-level security intelligence.**
+---
+
+### Portfolio Domains
+
+This repository ecosystem covers multiple offensive security domains:
+
+* 🔴 Red Team Operations & Adversary Emulation
+* 🛡 Continuous Security Validation
+* 🔍 API & Application Security
+* ☁️ Cloud & CI/CD Attack Surface
+* 📡 IoT / ICS Security Intelligence
+* 🧬 Vulnerability Research
+* 📊 Security Reporting & Risk Intelligence
+
 
 ---
 
