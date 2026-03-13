@@ -1,154 +1,257 @@
 # 🛡️ José María Micoli
 
-> **Senior Offensive Security Engineer | Red Team & Adversary Emulation | Detection Validation & Identity-Centric Attack Modeling**
-
-> *I engineer adversary tradecraft to measure defensive effectiveness — not to demonstrate exploitation skill.*
-
----
-
-## Executive Overview
-
-Modern organizations invest heavily in security controls — yet lack continuous validation of whether those controls actually work under realistic adversary behavior.
-
-My work focuses on solving that gap.
-
-I design and execute structured adversary simulations that:
-
-* Validate detection engineering effectiveness
-* Measure identity and cloud trust resilience
-* Stress-test API authorization models
-* Evaluate SOC response capability
-* Produce audit-aligned defensive intelligence
-
-The objective is not compromise.
-The objective is **measurable defensive assurance with operational and business impact**.
+### Senior Offensive Security Engineer  
+Red Team • Adversary Emulation • Security Validation Engineering  
+Identity Attack Modeling • API Security • Cloud & Detection Validation
 
 ---
 
-## Business Problems I Address
+# Offensive Security Engineering Portfolio
 
-Organizations typically struggle with:
+I design adversary tradecraft and offensive security platforms to measure **defensive effectiveness in modern enterprise environments.**
 
-- Blind spots in EDR and SIEM detection
-- IAM trust abuse across cloud-native architectures
-- API authorization weaknesses (BOLA/BFLA patterns)
-- Overreliance on point-in-time penetration testing
-- Lack of measurable security control performance
-- Compliance frameworks disconnected from technical reality
+My work focuses on structured **adversary simulation and continuous security validation**, bridging:
 
-My portfolio is engineered to address those systemic weaknesses.
+• Red Team operations  
+• Detection engineering validation  
+• Identity attack-path modeling  
+• API security testing  
+• Cloud IAM abuse simulation  
+• SOC detection capability measurement  
 
----
+The objective is **not compromise demonstration.**
 
-## Strategic Security Platforms
-
-Production-oriented platforms built to operationalize adversary emulation and structured validation workflows.
-
-| Project                                                                                   | Focus Area                                       | Business Value                                                                                             |
-| ----------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
-| **[VectorVue](https://github.com/nyxeralabs/VectorVue)**                                  | Security Validation & Assurance                  | Continuous control measurement & compliance-aligned reporting                                              |
-| **[SpectraStrike](https://github.com/nyxeralabs/SpectraStrike)**                          | Adversarial Orchestration & Telemetry Governance | Structured attacker modeling with measurable detection outputs                                             |
-| **[VaporTrace](https://github.com/josemariamicoli/VaporTrace)**                           | Autonomous API Risk Intelligence                 | Attack-path driven API risk exposure analysis                                                              |
-| **[VaporLab](https://github.com/nyxeralabs/VaporLab)**                                    | Offensive API & AI Exploitation Lab              | Advanced authorization & AI attack surface validation                                                      |
-| **[Ghost-Pipeline](https://github.com/josemariamicoli/Ghost-Pipeline)**                   | CI/CD & OIDC Abuse Simulation                    | Supply-chain trust boundary validation                                                                     |
-| **[APEX-PRO](https://github.com/josemariamicoli/APEX-PRO)**                               | Ransomware Emulation Framework                   | Incident response readiness measurement                                                                    |
-| **[Hydra-C2](https://github.com/josemariamicoli/Hydra-C2)**                               | Multi-Platform Command & Control                 | Telemetry visibility gap analysis                                                                          |
-| **[Hydra-Worm](https://github.com/josemariamicoli/Hydra-Worm)**                           | Adversarial Propagation Framework                | Segmentation and lateral movement resilience testing                                                       |
-| **[Nyxera Eye](https://github.com/NyxeraLabs/Nyxera-Eye)**                                | IoT & ICS Attack Surface Intelligence Platform   | Continuous asset discovery, device fingerprinting, vulnerability intelligence, and global exposure mapping |
-| **[Log4Shell-PoC](https://github.com/josemariamicoli/Log4Shell-PoC)**                     | Vulnerability R&D                                | Detection and WAF behavior validation                                                                      |
-| **[Pentest-Reports-Portfolio](https://github.com/josemariamicoli/Pentest-Audit-Portfolio)** | Professional Reporting Framework                 | Executive-grade risk communication modeling                                                                |
-| **[Adversary Simulation Lab](https://github.com/JoseMariaMicoli/Adversary-Simulation-Lab)**                     | Adversary Infrastructure Simulation & APT-Aligned Exercises     | Repeatable red team training and validation with evidence-driven workflows                                 |
-
-These systems bridge offensive execution with detection engineering and governance outcomes.
+The objective is **defensive assurance through measurable attacker simulation.**
 
 ---
 
-## Technical Scope
+# Executive Overview
 
-### Detection & Telemetry Validation
+Modern organizations deploy increasingly complex security stacks:
 
-* EDR behavioral visibility testing
-* SIEM correlation stress testing
-* NGFW detection coverage analysis
-* Telemetry blind spot identification
+• EDR  
+• SIEM  
+• IAM  
+• Cloud security controls  
+• API gateways  
+• Zero-trust architectures  
 
-### Identity & Cloud Security
+However, most security programs still rely on **point-in-time penetration testing**.
 
-* Active Directory & Entra ID privilege modeling
-* AWS / Azure / GCP IAM abuse simulation
-* OIDC trust boundary validation
-* Cross-account privilege escalation paths
+This creates a fundamental question:
 
-### API & Application Security
+> Do these controls actually work against real adversary behavior?
 
-* OWASP API Top 10 automation
-* Authorization logic testing (BOLA/BFLA)
-* REST & GraphQL attack-path modeling
-* CI/CD-integrated security validation
+This portfolio contains research platforms, adversary simulation infrastructure, and offensive engineering tooling designed to **continuously validate security controls under realistic attacker tradecraft.**
 
 ---
 
-## Detection Validation Coverage (MITRE ATT&CK®)
+# Strategic Security Platforms
 
-| Phase                | What Is Measured                     |
-| -------------------- | ------------------------------------ |
-| Reconnaissance       | Exposure & attack surface visibility |
-| Initial Access       | Entry monitoring effectiveness       |
-| Privilege Escalation | Identity control resilience          |
-| Lateral Movement     | Segmentation & containment strength  |
-| Persistence          | Behavioral detection quality         |
-| Command & Control    | Network telemetry analysis           |
-| Impact               | Incident response performance        |
+Security engineering platforms designed to operationalize **continuous adversary simulation and security validation.**
 
----
+| Platform | Domain | Purpose |
+|--------|--------|--------|
+| VectorVue | Security Validation | Continuous control validation & compliance mapping |
+| SpectraStrike | Red Team Orchestration | Structured adversary simulation campaigns |
+| VaporTrace | API Risk Intelligence | Automated API attack-path discovery |
+| VaporLab | API & AI Exploitation | Offensive research and testing environment |
+| Ghost-Pipeline | CI/CD Security | OIDC token abuse & supply-chain simulation |
+| APEX-PRO | Ransomware Emulation | Incident response readiness measurement |
+| Hydra-C2 | Red Team Infrastructure | Multi-platform command and control |
+| Hydra-Worm | Adversarial Propagation | Lateral movement & segmentation testing |
+| Nyxera Eye | IoT / ICS Intelligence | Global attack surface discovery |
+| Log4Shell-PoC | Vulnerability Research | Detection validation and WAF analysis |
+| Pentest Reports Portfolio | Security Reporting | Executive-grade reporting models |
+| Adversary Simulation Lab | Red Team Lab | Structured adversary training infrastructure |
 
-## Methodological Foundation
-
-My work aligns with:
-
-* MITRE ATT&CK®
-* NIST SP 800-115
-* Threat-informed defense principles
-* Structured Rules of Engagement
-
-Offensive simulation is executed to produce **measurable defensive insights**, not exploit showcases.
+These systems bridge **offensive execution with detection engineering and governance-level security intelligence.**
 
 ---
 
-## Professional Reporting & Value Delivery
+# Adversary Infrastructure Architecture
 
-Deliverables emphasize:
+Example adversary infrastructure used in Red Team simulations.
 
-* Detection gap quantification
-* Attack-path risk modeling
-* Root-cause analysis
-* Executive-level remediation strategy
-* Audit-ready validation evidence
+```mermaid
+flowchart TD
 
-The outcome is not a vulnerability list.
-The outcome is **actionable security maturity advancement**.
+Operator[Red Team Operator]
+
+Operator --> C2Framework
+C2Framework --> Redirector
+Redirector --> PayloadServer
+PayloadServer --> TargetEnvironment
+
+TargetEnvironment --> AD
+TargetEnvironment --> Cloud
+TargetEnvironment --> APIs
+
+AD --> LateralMovement
+Cloud --> IAMAbuse
+APIs --> AuthorizationAbuse
+````
+
+This infrastructure supports simulations of:
+
+• Identity privilege escalation
+• API authorization attacks
+• Cloud IAM abuse
+• lateral movement campaigns
+• command-and-control detection testing
 
 ---
 
-## Legal & Ethical Notice
+# Adversary Simulation Workflow
 
-All research and tooling are used exclusively within authorized security engagements or controlled laboratory environments.
+Structured offensive methodology used across projects.
 
-This portfolio exists to strengthen defensive security — not to enable unauthorized activity.
+```mermaid
+flowchart TD
+
+Recon[Reconnaissance]
+
+Recon --> Weaponization
+Weaponization --> InitialAccess
+InitialAccess --> PrivEsc
+PrivEsc --> LateralMove
+LateralMove --> Persistence
+Persistence --> CommandControl
+CommandControl --> Impact
+Impact --> DetectionValidation
+```
+
+Each phase is mapped to **MITRE ATT&CK** techniques and detection validation objectives.
 
 ---
 
-## Contact
+# MITRE ATT&CK Coverage
 
-**José María Micoli**
+The adversary simulation platforms in this portfolio map offensive activity to **ATT&CK tactics and techniques** to measure defensive visibility.
+
+| ATT&CK Phase         | Example Techniques Simulated     |
+| -------------------- | -------------------------------- |
+| Reconnaissance       | T1595 Active Scanning            |
+| Initial Access       | T1566 Phishing                   |
+| Execution            | T1059 Command Execution          |
+| Persistence          | T1547 Boot or Logon Autostart    |
+| Privilege Escalation | T1068 Exploitation               |
+| Defense Evasion      | T1070 Indicator Removal          |
+| Credential Access    | T1003 Credential Dumping         |
+| Discovery            | T1087 Account Discovery          |
+| Lateral Movement     | T1021 Remote Services            |
+| Command & Control    | T1071 Application Layer Protocol |
+| Exfiltration         | T1041 Exfiltration Over C2       |
+| Impact               | T1486 Data Encryption for Impact |
+
+---
+
+# Detection Validation Framework
+
+Offensive simulations are used to measure **security control performance** across detection layers.
+
+| Security Control    | Validation Objective           |
+| ------------------- | ------------------------------ |
+| EDR                 | Behavioral detection coverage  |
+| SIEM                | Correlation rule effectiveness |
+| NGFW                | Network anomaly detection      |
+| Identity Monitoring | Privilege abuse detection      |
+| API Gateways        | Authorization bypass detection |
+| Cloud Security      | IAM abuse monitoring           |
+
+---
+
+# Identity-Centric Attack Modeling
+
+Modern breaches frequently originate from **identity abuse rather than vulnerabilities**.
+
+Example attack path simulation:
+
+```mermaid
+flowchart TD
+
+Phishing --> TokenTheft
+TokenTheft --> CloudAccess
+CloudAccess --> IAMPrivilegeEscalation
+IAMPrivilegeEscalation --> ResourceControl
+```
+
+This model allows organizations to evaluate:
+
+• OAuth / OIDC token abuse
+• cross-account IAM privilege escalation
+• federation trust boundary exploitation
+
+---
+
+# API Security Validation Model
+
+API security simulations focus on **authorization logic abuse** rather than traditional injection vulnerabilities.
+
+Key attack patterns tested:
+
+• Broken Object Level Authorization (BOLA)
+• Broken Function Level Authorization (BFLA)
+• OAuth misconfiguration abuse
+• JWT trust boundary weaknesses
+• API gateway policy bypass
+
+---
+
+# Methodological Foundations
+
+The offensive engineering and adversary simulation methodologies implemented here align with:
+
+• MITRE ATT&CK®
+• NIST SP 800-115
+• Threat-Informed Defense
+• Structured Rules of Engagement
+
+All offensive activity is designed to produce **measurable defensive insights**.
+
+---
+
+# Professional Security Reporting
+
+Security validation engagements generate structured outputs including:
+
+• Detection gap analysis
+• Attack-path modeling
+• root-cause security analysis
+• executive remediation strategy
+• audit-ready validation evidence
+
+The objective is not vulnerability enumeration.
+
+The objective is **security maturity improvement.**
+
+---
+
+# Legal & Ethical Notice
+
+All research and tooling in this repository are used **exclusively in authorized security engagements or controlled laboratory environments.**
+
+This portfolio exists to **strengthen defensive security capabilities**.
+
+---
+
+# Contact
+
+José María Micoli
 Senior Offensive Security Engineer
-Red Team • Adversary Emulation • API & Cloud Security
 
-- 🌐 LinkedIn: [https://linkedin.com/in/jmmicoli](https://linkedin.com/in/jmmicoli)
-- 🏢 Nyxera Labs: [https://nyxera.cloud](https://nyxera.cloud)
-- 🧠 Hack The Box: [https://app.hackthebox.com/users/954485](https://app.hackthebox.com/users/954485)
+Red Team • Adversary Emulation • Security Validation
 
-- 📧 Professional Inquiries: [josemaria.micoli@gmail.com](mailto:josemaria.micoli@gmail.com)
+LinkedIn
+[https://linkedin.com/in/jmmicoli](https://linkedin.com/in/jmmicoli)
 
----
+Nyxera Labs
+[https://nyxera.cloud](https://nyxera.cloud)
+
+Professional Contact  
+[jmicoli@nyxera.cloud](mailto:jmicoli@nyxera.cloud)  
+
+Alternative Contact  
+[josemaria.micoli@gmail.com](mailto:josemaria.micoli@gmail.com)
+
 ---
