@@ -58,18 +58,18 @@ Each repository focuses on adversary simulation, security validation, or attack-
 
 | Platform                                                                                  | Domain                       | Purpose                                            |
 | ----------------------------------------------------------------------------------------- | ---------------------------- | -------------------------------------------------- |
-| 🛡 **[VectorVue](https://github.com/jmmicoli/VectorVue)**                                 | Security Validation Platform | Continuous control validation & compliance mapping |
-| 🔴 **[SpectraStrike](https://github.com/jmmicoli/SpectraStrike)**                         | Red Team Orchestration       | Structured adversary simulation campaigns          |
-| 🌐 **[VaporTrace](https://github.com/jmmicoli/VaporTrace)**                               | API Risk Intelligence        | Automated API attack-path discovery                |
-| 🧪 **[VaporLab](https://github.com/jmmicoli/VaporLab)**                                   | API & AI Exploitation        | Offensive research and testing environment         |
-| 📡 **[Nyxera Eye](https://github.com/jmmicoli/Nyxera-Eye)**                               | IoT / ICS Intelligence       | Global attack surface discovery                    |
-| ⚙️ **[Ghost-Pipeline](https://github.com/jmmicoli/Ghost-Pipeline)**                       | CI/CD Security               | OIDC token abuse & supply-chain simulation         |
-| 💀 **[APEX-PRO](https://github.com/jmmicoli/APEX-PRO)**                                   | Ransomware Emulation         | Incident response readiness measurement            |
-| 🐙 **[Hydra-C2](https://github.com/jmmicoli/Hydra-C2)**                                   | Red Team Infrastructure      | Multi-platform command and control                 |
-| 🐍 **[Hydra-Worm](https://github.com/jmmicoli/Hydra-Worm)**                               | Adversarial Propagation      | Lateral movement & segmentation testing            |
-| 🧨 **[Log4Shell-PoC](https://github.com/jmmicoli/Log4Shell-PoC)**                         | Vulnerability Research       | Detection validation and WAF analysis              |
-| 🧱 **[Adversary Simulation Lab](https://github.com/jmmicoli/Adversary-Simulation-Lab)**   | Red Team Lab                 | Structured adversary training infrastructure       |
-| 📑 **[Pentest Reports Portfolio](https://github.com/jmmicoli/Pentest-Reports-Portfolio)** | Security Reporting           | Executive-grade reporting models                   |
+| 🛡 **[VectorVue](https://github.com/nyxeralabs/VectorVue)**                                 | Security Validation Platform | Continuous control validation & compliance mapping |
+| 🔴 **[SpectraStrike](https://github.com/nyxeralabs/SpectraStrike)**                         | Red Team Orchestration       | Structured adversary simulation campaigns          |
+| 🌐 **[VaporTrace](https://github.com/josemariamicoli/VaporTrace)**                               | API Risk Intelligence        | Automated API attack-path discovery                |
+| 🧪 **[VaporLab](https://github.com/nyxeralabs/VaporLab)**                                   | API & AI Exploitation        | Offensive research and testing environment         |
+| 📡 **[Nyxera Eye](https://github.com/nyxeralabs/Nyxera-Eye)**                               | IoT / ICS Intelligence       | Global attack surface discovery                    |
+| ⚙️ **[Ghost-Pipeline](https://github.com/josemariamicoli/Ghost-Pipeline)**                       | CI/CD Security               | OIDC token abuse & supply-chain simulation         |
+| 💀 **[APEX-PRO](https://github.com/josemariamicoli/APEX-PRO)**                                   | Ransomware Emulation         | Incident response readiness measurement            |
+| 🐙 **[Hydra-C2](https://github.com/josemariamicoli/Hydra-C2)**                                   | Red Team Infrastructure      | Multi-platform command and control                 |
+| 🐍 **[Hydra-Worm](https://github.com/josemariamicoli/Hydra-Worm)**                               | Adversarial Propagation      | Lateral movement & segmentation testing            |
+| 🧨 **[Log4Shell-PoC](https://github.com/josemariamicoli/Log4Shell-PoC)**                         | Vulnerability Research       | Detection validation and WAF analysis              |
+| 🧱 **[Adversary Simulation Lab](https://github.com/josemariamicoli/Adversary-Simulation-Lab)**   | Red Team Lab                 | Structured adversary training infrastructure       |
+| 📑 **[Pentest Reports Portfolio](https://github.com/josemariamicoli/Pentest-Reports-Portfolio)** | Security Reporting           | Executive-grade reporting models                   |
 
 ---
 
