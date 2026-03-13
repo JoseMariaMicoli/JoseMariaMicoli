@@ -1,8 +1,13 @@
 # 🛡️ José María Micoli
 
-### Senior Offensive Security Engineer  
-Red Team • Adversary Emulation • Security Validation Engineering  
-Identity Attack Modeling • API Security • Cloud & Detection Validation
+![Red Team](https://img.shields.io/badge/Red%20Team-Adversary%20Operations-darkred)
+![Adversary Emulation](https://img.shields.io/badge/Adversary-Emulation-black)
+![Security Validation](https://img.shields.io/badge/Security-Validation-blue)
+
+### Senior Offensive Security Engineer
+
+Adversary Emulation • Red Team Operations • Security Validation Engineering
+Identity Attack Modeling • API Security • Cloud IAM Abuse Simulation
 
 ---
 
@@ -12,16 +17,16 @@ I design adversary tradecraft and offensive security platforms to measure **defe
 
 My work focuses on structured **adversary simulation and continuous security validation**, bridging:
 
-• Red Team operations  
-• Detection engineering validation  
-• Identity attack-path modeling  
-• API security testing  
-• Cloud IAM abuse simulation  
-• SOC detection capability measurement  
+• Red Team operations
+• Detection engineering validation
+• Identity attack-path modeling
+• API security testing
+• Cloud IAM abuse simulation
+• SOC detection capability measurement
 
 The objective is **not compromise demonstration.**
 
-The objective is **defensive assurance through measurable attacker simulation.**
+The objective is **defensive assurance through measurable adversary simulation.**
 
 ---
 
@@ -29,12 +34,12 @@ The objective is **defensive assurance through measurable attacker simulation.**
 
 Modern organizations deploy increasingly complex security stacks:
 
-• EDR  
-• SIEM  
-• IAM  
-• Cloud security controls  
-• API gateways  
-• Zero-trust architectures  
+• EDR
+• SIEM
+• IAM
+• Cloud security controls
+• API gateways
+• Zero-trust architectures
 
 However, most security programs still rely on **point-in-time penetration testing**.
 
@@ -80,7 +85,6 @@ This repository ecosystem covers multiple offensive security domains:
 * 🧬 Vulnerability Research
 * 📊 Security Reporting & Risk Intelligence
 
-
 ---
 
 # Adversary Infrastructure Architecture
@@ -104,7 +108,7 @@ TargetEnvironment --> APIs
 AD --> LateralMovement
 Cloud --> IAMAbuse
 APIs --> AuthorizationAbuse
-````
+```
 
 This infrastructure supports simulations of:
 
@@ -135,7 +139,7 @@ CommandControl --> Impact
 Impact --> DetectionValidation
 ```
 
-Each phase is mapped to **MITRE ATT&CK** techniques and detection validation objectives.
+Each phase is mapped to **MITRE ATT&CK techniques and detection validation objectives.**
 
 ---
 
@@ -143,20 +147,20 @@ Each phase is mapped to **MITRE ATT&CK** techniques and detection validation obj
 
 The adversary simulation platforms in this portfolio map offensive activity to **ATT&CK tactics and techniques** to measure defensive visibility.
 
-| ATT&CK Phase         | Example Techniques Simulated     |
-| -------------------- | -------------------------------- |
-| Reconnaissance       | T1595 Active Scanning            |
-| Initial Access       | T1566 Phishing                   |
-| Execution            | T1059 Command Execution          |
-| Persistence          | T1547 Boot or Logon Autostart    |
-| Privilege Escalation | T1068 Exploitation               |
-| Defense Evasion      | T1070 Indicator Removal          |
-| Credential Access    | T1003 Credential Dumping         |
-| Discovery            | T1087 Account Discovery          |
-| Lateral Movement     | T1021 Remote Services            |
-| Command & Control    | T1071 Application Layer Protocol |
-| Exfiltration         | T1041 Exfiltration Over C2       |
-| Impact               | T1486 Data Encryption for Impact |
+| ATT&CK Phase         | Example Techniques Simulated                  |
+| -------------------- | --------------------------------------------- |
+| Reconnaissance       | T1595 – Active Scanning                       |
+| Initial Access       | T1566 – Phishing                              |
+| Execution            | T1059 – Command and Scripting Interpreter     |
+| Persistence          | T1547 – Boot or Logon Autostart Execution     |
+| Privilege Escalation | T1068 – Exploitation for Privilege Escalation |
+| Defense Evasion      | T1070 – Indicator Removal on Host             |
+| Credential Access    | T1003 – OS Credential Dumping                 |
+| Discovery            | T1087 – Account Discovery                     |
+| Lateral Movement     | T1021 – Remote Services                       |
+| Command & Control    | T1071 – Application Layer Protocol            |
+| Exfiltration         | T1041 – Exfiltration Over C2 Channel          |
+| Impact               | T1486 – Data Encrypted for Impact             |
 
 ---
 
@@ -177,7 +181,7 @@ Offensive simulations are used to measure **security control performance** acros
 
 # Identity-Centric Attack Modeling
 
-Modern breaches frequently originate from **identity abuse rather than vulnerabilities**.
+Modern breaches frequently originate from **identity abuse rather than software vulnerabilities.**
 
 Example attack path simulation:
 
@@ -200,7 +204,7 @@ This model allows organizations to evaluate:
 
 # API Security Validation Model
 
-API security simulations focus on **authorization logic abuse** rather than traditional injection vulnerabilities.
+API security simulations focus on **authorization logic abuse and identity trust boundary failures** rather than traditional injection vulnerabilities.
 
 Key attack patterns tested:
 
@@ -221,7 +225,7 @@ The offensive engineering and adversary simulation methodologies implemented her
 • Threat-Informed Defense
 • Structured Rules of Engagement
 
-All offensive activity is designed to produce **measurable defensive insights**.
+All offensive activity is designed to produce **measurable defensive insights.**
 
 ---
 
@@ -231,7 +235,7 @@ Security validation engagements generate structured outputs including:
 
 • Detection gap analysis
 • Attack-path modeling
-• root-cause security analysis
+• root-cause attack path analysis
 • executive remediation strategy
 • audit-ready validation evidence
 
@@ -245,36 +249,35 @@ The objective is **security maturity improvement.**
 
 All research and tooling in this repository are used **exclusively in authorized security engagements or controlled laboratory environments.**
 
-This portfolio exists to **strengthen defensive security capabilities**.
+This portfolio exists to **strengthen defensive security capabilities.**
 
 ---
 
 # Contact
 
-**José María Micoli**  
-Senior Offensive Security Engineer  
+**José María Micoli**
+Senior Offensive Security Engineer
 
-Red Team • Adversary Emulation • Security Validation • Cloud & API Security  
+Red Team • Adversary Emulation • Security Validation • Cloud & API Security
 
 ---
 
 ### Professional Links
 
-**LinkedIn**  
+**LinkedIn**
 https://linkedin.com/in/jmmicoli
 
-**Nyxera Labs**  
+**Nyxera Labs**
 https://nyxera.cloud
 
 ---
 
 ### Contact
 
-**Professional Email**  
-jmicoli@nyxera.cloud  
+**Professional Email**
+[jmicoli@nyxera.cloud](mailto:jmicoli@nyxera.cloud)
 
-**Alternative Contact**  
-josemaria.micoli@gmail.com
+**Alternative Contact**
+[josemaria.micoli@gmail.com](mailto:josemaria.micoli@gmail.com)
 
----
 ---
