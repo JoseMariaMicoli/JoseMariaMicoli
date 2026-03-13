@@ -237,21 +237,30 @@ This portfolio exists to **strengthen defensive security capabilities**.
 
 # Contact
 
-José María Micoli
-Senior Offensive Security Engineer
+**José María Micoli**  
+Senior Offensive Security Engineer  
 
-Red Team • Adversary Emulation • Security Validation
+Red Team • Adversary Emulation • Security Validation • Cloud & API Security  
 
-LinkedIn
-[https://linkedin.com/in/jmmicoli](https://linkedin.com/in/jmmicoli)
+---
 
-Nyxera Labs
-[https://nyxera.cloud](https://nyxera.cloud)
+### Professional Links
 
-Professional Contact  
-[jmicoli@nyxera.cloud](mailto:jmicoli@nyxera.cloud)  
+**LinkedIn**  
+https://linkedin.com/in/jmmicoli
 
-Alternative Contact  
-[josemaria.micoli@gmail.com](mailto:josemaria.micoli@gmail.com)
+**Nyxera Labs**  
+https://nyxera.cloud
 
+---
+
+### Contact
+
+**Professional Email**  
+jmicoli@nyxera.cloud  
+
+**Alternative Contact**  
+josemaria.micoli@gmail.com
+
+---
 ---
