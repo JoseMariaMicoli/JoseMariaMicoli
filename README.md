@@ -69,7 +69,7 @@ Each repository focuses on adversary simulation, security validation, or attack-
 | 🐍 **[Hydra-Worm](https://github.com/josemariamicoli/Hydra-Worm)**                               | Adversarial Propagation      | Lateral movement & segmentation testing            |
 | 🧨 **[Log4Shell-PoC](https://github.com/josemariamicoli/Log4Shell-PoC)**                         | Vulnerability Research       | Detection validation and WAF analysis              |
 | 🧱 **[Adversary Simulation Lab](https://github.com/josemariamicoli/Adversary-Simulation-Lab)**   | Red Team Lab                 | Structured adversary training infrastructure       |
-| 📑 **[Pentest Reports Portfolio](https://github.com/josemariamicoli/Pentest-Reports-Portfolio)** | Security Reporting           | Executive-grade reporting models                   |
+| 📑 **[Pentest Reports Portfolio](https://github.com/josemariamicoli/Pentest-Audit-Portfolio)** | Security Reporting           | Executive-grade reporting models                   |
 
 ---
 
